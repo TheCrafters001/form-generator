@@ -105,7 +105,7 @@ Partial Class Form1
         Me.BonfireLabel1.AutoSize = True
         Me.BonfireLabel1.Font = New System.Drawing.Font("Verdana", 8.0!)
         Me.BonfireLabel1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(135, Byte), Integer), CType(CType(135, Byte), Integer), CType(CType(135, Byte), Integer))
-        Me.BonfireLabel1.Location = New System.Drawing.Point(6, 59)
+        Me.BonfireLabel1.Location = New System.Drawing.Point(6, 62)
         Me.BonfireLabel1.Name = "BonfireLabel1"
         Me.BonfireLabel1.Size = New System.Drawing.Size(70, 13)
         Me.BonfireLabel1.TabIndex = 8
